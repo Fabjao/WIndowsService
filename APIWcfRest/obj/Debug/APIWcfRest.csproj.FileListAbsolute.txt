@@ -1,0 +1,6 @@
+C:\Projeto\APIWcfRest\APIWcfRest\bin\Debug\APIWcfRest.exe.config
+C:\Projeto\APIWcfRest\APIWcfRest\bin\Debug\APIWcfRest.exe
+C:\Projeto\APIWcfRest\APIWcfRest\bin\Debug\APIWcfRest.pdb
+C:\Projeto\APIWcfRest\APIWcfRest\obj\Debug\APIWcfRest.exe
+C:\Projeto\APIWcfRest\APIWcfRest\obj\Debug\APIWcfRest.pdb
+C:\Projeto\APIWcfRest\APIWcfRest\obj\Debug\APIWcfRest.csprojResolveAssemblyReference.cache
